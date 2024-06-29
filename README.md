@@ -1,4 +1,8 @@
-<img align="center" height="200" src="https://media.licdn.com/dms/image/D5616AQGSavQbnTs_Wg/profile-displaybackgroundimage-shrink_350_1400/0/1701265483546?e=1724889600&v=beta&t=3i8Ubn_0lT8ephQT7H9gE56P5lyHqngP8VgLpJFRAoo"  />
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/D5616AQGSavQbnTs_Wg/profile-displaybackgroundimage-shrink_350_1400/0/1701265483546?e=1724889600&v=beta&t=3i8Ubn_0lT8ephQT7H9gE56P5lyHqngP8VgLpJFRAoo"  />
+</div>
 
 ###
 
@@ -36,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="40" alt="safari logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
 ###
@@ -43,5 +49,13 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshxo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
