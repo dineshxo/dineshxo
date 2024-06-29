@@ -1,5 +1,7 @@
 <br clear="both">
-
+<div align="center">
+  <img src="assets/banner.png" style="max-width: 100%; height: auto;" alt="Banner">
+</div>
 
 ###
 
@@ -44,8 +46,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshxo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshxo&radius=20&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
+
 
 ###
 
