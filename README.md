@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://media.licdn.com/dms/image/D5616AQGSavQbnTs_Wg/profile-displaybackgroundimage-shrink_350_1400/0/1701265483546?e=1724889600&v=beta&t=3i8Ubn_0lT8ephQT7H9gE56P5lyHqngP8VgLpJFRAoo"  />
+<img align="left" height="250" src="https://media.licdn.com/dms/image/D5616AQGSavQbnTs_Wg/profile-displaybackgroundimage-shrink_350_1400/0/1701265483546?e=1724889600&v=beta&t=3i8Ubn_0lT8ephQT7H9gE56P5lyHqngP8VgLpJFRAoo"  />
 
 ###
 
@@ -32,6 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="40" alt="safari logo"  />
 </div>
 
 ###
