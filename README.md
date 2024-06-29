@@ -1,6 +1,6 @@
 <br clear="both">
 <div align="center">
-  <img src="assets/banner.jpg" style="max-width: 100%; height: auto;" alt="Banner">
+  <img src="assets/banner.png" style="max-width: 100%; height: auto;" alt="Banner">
 </div>
 
 ###
