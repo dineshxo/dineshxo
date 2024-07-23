@@ -4,6 +4,9 @@
 </div>
 
 ###
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=dineshxo&label=Profile%20views&color=0e75b6&style=flat" alt="dineshxo" />
+</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
