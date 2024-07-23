@@ -4,14 +4,10 @@
 </div>
 
 ###
-<br>
-<h2 align="center">
+<h2 align="center" style="margin: 5;">
    "Turning Ideas into Functional, World-Class Apps." 🚀
 </h2>
-<br>
-<!-- <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=dineshxo&label=Profile%20views&color=0e75b6&style=flat" alt="dineshxo" />
-</p> -->
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
