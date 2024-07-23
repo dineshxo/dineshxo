@@ -1,8 +1,10 @@
 <br clear="both">
-<div align="center">
+<!-- <div align="center">
   <img src="assets/banner.png" style="max-width: 100%; height: auto;" alt="Banner">
-</div>
-
+</div> -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/" />
+</h1>
 ###
 
 <div align="center">
