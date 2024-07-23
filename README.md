@@ -3,6 +3,10 @@
   <img src="assets/banner2.png" style="max-width: 100%; height: auto;" alt="Banner">
 </div>
 
+<h1 align="center">
+   "Turning Ideas into Functional, World-Class Apps." 🚀
+</h1>
+
 ###
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=dineshxo&label=Profile%20views&color=0e75b6&style=flat" alt="dineshxo" />
