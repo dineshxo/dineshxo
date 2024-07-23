@@ -4,9 +4,6 @@
 </div>
 
 ###
-<h2 align="center" style="margin: 5;">
-   "Turning Ideas into Functional, World-Class Apps." 🚀
-</h2>
 
 
 <div align="center">
