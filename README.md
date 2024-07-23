@@ -4,7 +4,7 @@
 </div>
 
 ###
-<h3 align="center"> Turning Ideas into Functional, World-Class Apps. 🚀 </h3>
+<h2 align="center"> Turning Ideas into Functional, World-Class Apps. 🚀 </h2>
 <br>
 
 <div align="center">
